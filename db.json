@@ -1,19 +1,34 @@
 {
   "token-uris": [
     { "id":0,
-      "name": 1,
-      "description": "Token 1",
-      "image":"https://i.ibb.co/1qn370y/Screenshot-from-2020-08-10-11-17-10.png"
+      "name": "Jetfuel.Finance Grand Opening NFT",
+      "description": "The first Jetfuel NFT issued to 100 giveaway winners",
+      "image":"The nft Photo URL"
     },
-    {
-     "name": 2,
-      "description": "Token 1",
-      "image":"https://via.placeholder.com/150"
+    { "id":1,
+      "name": "Jetfuel.Finance Grand Opening NFT",
+      "description": "The first Jetfuel NFT issued to 100 giveaway winners",
+      "image":"The nft Photo URL"
     },
-    {
-      "name": 3,
-      "description": "Token 1",
-      "image":"https://via.placeholder.com/150"
-    }
+    { "id":2,
+      "name": "Jetfuel.Finance Grand Opening NFT",
+      "description": "The first Jetfuel NFT issued to 100 giveaway winners",
+      "image":"The nft Photo URL"
+    },
+    { "id":3,
+      "name": "Jetfuel.Finance Grand Opening NFT",
+      "description": "The first Jetfuel NFT issued to 100 giveaway winners",
+      "image":"The nft Photo URL"
+    },
+    { "id":4,
+      "name": "Jetfuel.Finance Grand Opening NFT",
+      "description": "The first Jetfuel NFT issued to 100 giveaway winners",
+      "image":"The nft Photo URL"
+    },
+    { "id":5,
+      "name": "Jetfuel.Finance Grand Opening NFT",
+      "description": "The first Jetfuel NFT issued to 100 giveaway winners",
+      "image":"The nft Photo URL"
+    },
   ]
 }
